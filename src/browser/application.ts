@@ -31,6 +31,10 @@ export class Application {
       kGepSupportedGameIds.TeamfightTactics,
       //kGepSupportedGameIds.DiabloIV,
       //kGepSupportedGameIds.RocketLeague,
+      7764, // CSGO
+      22730, // CS2
+      7314, // DOTA2
+      21566, // APEX
     ]);
   }
 
@@ -58,7 +62,11 @@ export class Application {
       kGameIds.LeagueofLegends,
       kGameIds.TeamfightTactics,
       kGameIds.RocketLeague,
-      kGameIds.DiabloIV
+      kGameIds.DiabloIV,
+      7764, // CSGO
+      22730, // CS2
+      7314, // DOTA2
+      21566, // APEX
     ]);
   }
 }
